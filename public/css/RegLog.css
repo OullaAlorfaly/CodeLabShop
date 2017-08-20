@@ -1,0 +1,108 @@
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+a.logo{
+    font-family: Open Sans;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+.logo span{
+    background-color: #222;
+    padding: 7px  5px 7px 5px;
+    color: #fff;
+    background-color: #2fdab8;
+    font-weight:600;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+    font-family: Open Sans;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+
+    color: #2fdab8;
+}
+
+.panel-default>.panel-heading {
+    color: #222;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+    font-size: 18px;
+    font-family: Open Sans;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+.btn-primary {
+    color: #222;
+    background-color: #2fdab8;
+    border-color: #0f9c75;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: #0f9c75;
+    border-color: #0f9c75;
+}
+
+.btn-link{
+    color: #222;
+}
+.btn-link:hover{
+    text-decoration: underline;
+    text-decoration-color: #2fdab8;
+}
+.panel-green {
+    border-color: #5cb85c;
+}
+.panel-green > .panel-heading {
+    border-color: #5cb85c;
+    color: white;
+    background-color: #5cb85c;
+}
+.panel-green > a {
+    color: #5cb85c;
+}
+.panel-green > a:hover {
+    color: #3d8b3d;
+}
+.panel-yellow {
+    border-color: #f0ad4e;
+}
+.panel-yellow > .panel-heading {
+    border-color: #f0ad4e;
+    color: white;
+    background-color: #f0ad4e;
+}
+.panel-yellow > a {
+    color: #f0ad4e;
+}
+.panel-yellow > a:hover {
+    color: #df8a13;
+}
+.huge {
+    font-size: 40px;
+}
+
+
+.btn-danger {
+    color: #222;
+    background-color: #2fdab8;
+    border-color: #0f9c75;
+}
+
+.btn-danger:hover{
+    background-color: #0f9c75;
+    border-color: #0f9c75;
+}
+.btn-success {
+    color: #fff;
+    background-color: #222;
+    border-color: #222;
+}
+.btn-success:hover{
+    background-color: #222;
+    color: #2fdab8;
+}
